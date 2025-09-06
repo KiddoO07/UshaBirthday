@@ -1,4 +1,4 @@
-var images = ['19d815bd-1e0b-4b19-af03-eac14dcd.webp'];
+var images = ['19d815bd-1e0b-4b19-af03-eac14dcd.png'];
 
 var currentIndex = 0;
 var totalClicks = 0;
@@ -100,3 +100,4 @@ function drop(ev) {
     }
   }
 }
+
